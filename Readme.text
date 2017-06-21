@@ -1,0 +1,7 @@
+技术栈：nodejs+express+less+gulp+canvas+css3d
+
+入口文件app.js
+
+gulp命令   执行gulp testless,gulp  会生成 dist项目文件夹
+
+其中涉及到 的有  less转css，css加浏览器前缀，css压缩，js压缩，html压缩
